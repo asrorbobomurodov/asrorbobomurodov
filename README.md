@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asrorbobomurodov
-- 👀 I’m interested in coding, football
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding and football
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on CodeAcademy
+- 📫 How to reach me ...(I don't know)
 
 <!---
 asrorbobomurodov/asrorbobomurodov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
